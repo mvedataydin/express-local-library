@@ -1,5 +1,5 @@
 # express-locallibrary-tutorial
-Completed the tutorial "Local Library" website written in in Node/Express from MDN web docs.
+Completed the tutorial "Local Library" website written in Node/Express from MDN web docs.
 
 [DEMO](https://hidden-citadel-76837.herokuapp.com)
 
